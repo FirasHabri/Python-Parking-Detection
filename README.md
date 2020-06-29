@@ -19,13 +19,13 @@ The drawing functionality has been made with PyQt painter functions. while the d
  
  ### Screenshots : 
  #### main window
- ![main](/images/1.jpg)
+ ![alt text](https://github.com/FirasHabri/Python-Parking-Detection/blob/master/images/1.JPG)
  
  #### Select parking slots
- ![select parking slots](/images/3.jpg)
+ ![alt text](https://github.com/FirasHabri/Python-Parking-Detection/blob/master/images/3.JPG)
  
  #### Run parking vacancy detector
- ![detector](/images/6.jpg)
+ ![alt text](https://github.com/FirasHabri/Python-Parking-Detection/blob/master/images/6.JPG)
  
  ### Acknowledgment
 Big thanks to [  KhansaSaeed  ](https://github.com/KhansaSaeed/Car-Parking-OpenCV-Python-Rpi) for providing the base code.
